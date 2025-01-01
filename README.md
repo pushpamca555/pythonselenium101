@@ -1,4 +1,4 @@
-# LambdaTestSeleniumPython101
+## SeleniumPython101
  LambdaTest Selenium Python 101 Certification.
 
 ## Testting Framework
