@@ -8,11 +8,3 @@ The Tests are written using the Pytest Framework.
 1. pytest
 2. selenium
 3. pytest-xdist
-
-## Note:
-All options required for running the tests have been added in the pytest.ini file
-Hence we see no parameters passed during execution of the tests as seen in the gitpod.yml file
-
-* Number of workers for parallel execution are currently set to 2
-
-
